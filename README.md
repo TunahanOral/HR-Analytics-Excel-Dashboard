@@ -20,4 +20,7 @@ This project focuses on analyzing employee attrition and identifying the key fac
 2.  Younger talent (Age **18-25**) shows the highest risk of attrition compared to other age groups.
 3.  As expected, employees in the lowest **Salary Slab (Upto 5k)** have a significantly higher tendency to leave the company.
 
+4.  ## 📂 Data Source
+The dataset used in this project is the **IBM HR Analytics Employee Attrition & Performance** dataset, which is a fictional data set created by IBM data scientists. It contains 1,470 rows and 35 features.
+
 *(Note: Check the uploaded video/screenshot to see the interactive dashboard in action!)*
