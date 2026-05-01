@@ -1,5 +1,5 @@
 # HR Analytics Interactive Dashboard 📊
-![HR Analytics Dashboard](Dashboard_Overview.PNG)
+![HR Analytics Dashboard](dashboard_demo.gif)
 ## 📌 Project Overview
 This project focuses on analyzing employee attrition and identifying the key factors driving turnover within the organization. By cleaning and modeling a comprehensive HR dataset, I developed an interactive Excel Dashboard that allows stakeholders to explore attrition trends based on various demographics and job roles.
 
